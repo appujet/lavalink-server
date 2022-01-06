@@ -1,7 +1,9 @@
 # lavalink-repl
 Lavalink on replit
+
+[![Run on Repl.it](https://repl.it/badge/github/brblacky/lavalink-in-replit)](https://repl.it/github/brblacky/lavalink-in-replit)
+
 <br>
-<a href="https://replit.com/github/brblacky/lavalink-in-replit"><img src="https://img.shields.io/badge/REPL-FORK-green"></a>
 ## Connecting
 - [x] Lavalink's port will always 443
 - [x] Default password `youshallnotpass`
