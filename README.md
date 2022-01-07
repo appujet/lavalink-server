@@ -28,3 +28,6 @@ Lavalink on replit
 "secure": true
 
 ```
+
+## pm2 
+`pm2 start java -- -jar Lavalink.jar`
