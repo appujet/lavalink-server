@@ -8,7 +8,8 @@
 
 ## Where I can host ?
 [Windows](https://github.com/brblacky/lavalink-server#windows)
-
+• [Linux](https://github.com/brblacky/lavalink-server#linux)
+• [replit](https://github.com/brblacky/lavalink-server#replit)
 ## Windows 
 - download and install java [here](https://adoptopenjdk.net/) 
 
@@ -24,11 +25,13 @@ git clone https://github.com/brblacky/lavalink-server.git
 
 - edit `application.yml` Password and port 
 
-- double click `start.sh`
+- double click on `start.sh`
 
 ## Linux
 
 ## replit 
+
+[![Run on Repl.it](https://repl.it/badge/github/brblacky/lavalink-server)](https://repl.it/github/brblacky/lavalink-server)
 
 **Connecting**
 - Lavalink's port will always 443 in replit
