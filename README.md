@@ -28,6 +28,22 @@ git clone https://github.com/brblacky/lavalink-server.git
 - double click on `start.sh`
 
 ## Linux
+- download curl
+```
+sudo apt install -y curl
+```
+
+**Note**: _Java v11 or newer is required to run the Lavalink.jar. Java v13 is recommended._ If you are using **sdkman** then _its a manager, not Java, you have to install sdkman and use sdkman to install Java_
+
+**Warning**: Java v14 has issues with Lavalink.
+
+- download or gitclone 
+```
+git clone https://github.com/brblacky/lavalink-server.git
+```
+- cd `lavalink-server`
+
+- run `nano start.sh`
 
 ## replit 
 
@@ -53,7 +69,6 @@ git clone https://github.com/brblacky/lavalink-server.git
 "secure": true
 
 ```
-
 
 
 ## pm2 
