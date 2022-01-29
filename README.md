@@ -1,5 +1,5 @@
-# lavalink-repl
-Lavalink on replit
+# lavalink-Server
+Lavalink on 
 
 [![Run on Repl.it](https://repl.it/badge/github/brblacky/lavalink-in-replit)](https://repl.it/github/brblacky/lavalink-in-replit)
 
