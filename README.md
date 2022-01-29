@@ -43,7 +43,7 @@ git clone https://github.com/brblacky/lavalink-server.git
 ```
 - cd `lavalink-server`
 
-- run `nano start.sh`
+- run `nano start.sh` Or `vi start.sh`
 
 ## replit 
 
