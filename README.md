@@ -62,6 +62,20 @@ git clone https://github.com/brblacky/lavalink-server.git
 To run your script : `./start.sh`
 Another option is as follows to execute shell script: `sh start.sh` OR `bash start.sh` Or `sudo bash start.sh`
 
+**pm2**
+
+- install node.js 
+```cmd
+sudo apt update
+
+sudo apt install nodejs
+
+```
+
+- install pm2 `npm i pm2`
+- run `pm2 start java -- -jar Lavalink.jar`
+
+
 ## replit 
 
 [![Run on Repl.it](https://repl.it/badge/github/brblacky/lavalink-server)](https://repl.it/github/brblacky/lavalink-server)
