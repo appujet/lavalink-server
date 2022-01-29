@@ -28,6 +28,28 @@ git clone https://github.com/brblacky/lavalink-server.git
 
 ## Linux
 
+## replit 
+
+**Connecting**
+- Lavalink's port will always 443 in replit
+- Default password `youshallnotpass`
+- using custom lavalink client
+
+**Important notes**
+- To keep this 24/7 you need to make an account on UptimeRobot service, and make HTTP request to your app every 5 minutes. For example, if your app is named `lavalink-repl` and your repl username is `ahmasa` then make HTTP request to `https://lavalink-repl.ahmasa.repl.co`
+- Do not forget to set your password (in `application.yml` file)
+- Connection to node must be secured E.g https/wss
+**example**
+```js
+
+"host": "lavalink.brblacky1.repl.co",
+"password": "LAVA",
+"port": 443,
+"identifier": "lavalink 5",     
+"secure": true
+
+```
+
 
 
 ## pm2 
