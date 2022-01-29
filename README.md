@@ -73,7 +73,3 @@ Another option is as follows to execute shell script: `sh start.sh` OR `bash sta
 "secure": true
 
 ```
-
-
-## pm2 
-`pm2 start java -- -jar Lavalink.jar`
