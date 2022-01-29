@@ -23,7 +23,7 @@ PM2 is a production process manager for Node.js applications with a built-in loa
 **Warning**: Java v14 has issues with Lavalink.
 
 - download or gitclone 
-```
+```cmd
 git clone https://github.com/brblacky/lavalink-server.git
 ```
 
@@ -42,7 +42,7 @@ git clone https://github.com/brblacky/lavalink-server.git
 
 ## Linux
 - download curl
-```
+```cmd
 sudo apt install -y curl
 ```
 
@@ -51,7 +51,7 @@ sudo apt install -y curl
 **Warning**: Java v14 has issues with Lavalink.
 
 - download or gitclone 
-```
+```cmd
 git clone https://github.com/brblacky/lavalink-server.git
 ```
 - cd `lavalink-server`
@@ -67,7 +67,8 @@ Another option is as follows to execute shell script: `sh start.sh` OR `bash sta
 - install node.js 
 ```cmd
 sudo apt update
-
+```
+```cmd
 sudo apt install nodejs
 
 ```
