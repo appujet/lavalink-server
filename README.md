@@ -21,6 +21,14 @@
 git clone https://github.com/brblacky/lavalink-server.git
 ```
 - go into the folder with `lavalink-server`
+
+- edit `application.yml` Password and port 
+
 - double click `start.sh`
+
+## Linux
+
+
+
 ## pm2 
 `pm2 start java -- -jar Lavalink.jar`
