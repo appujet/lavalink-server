@@ -26,11 +26,19 @@ PM2 is a production process manager for Node.js applications with a built-in loa
 ```
 git clone https://github.com/brblacky/lavalink-server.git
 ```
+
 - go into the folder with `lavalink-server`
 
 - edit `application.yml` Password and port 
 
-- double click on `start.sh`
+- run for: double click on `start.sh`
+
+**pm2**
+
+- install node.js 
+- install pm2 `npm i pm2`
+- run `pm2 start java -- -jar Lavalink.jar`
+
 
 ## Linux
 - download curl
