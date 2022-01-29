@@ -5,7 +5,9 @@
     <img src="https://media.discordapp.net/attachments/902568151731015770/936134410737180703/059C7F8B-2A75-4AF7-9DCA-B4C13E826D22.png" alt="Pbot-plus" width="200" height="100">
   </a>
 </p>
+
 ## Where I can host ?
+[Windows](https://github.com/brblacky/lavalink-server#windows)
 
 ## Windows 
 - download and install java [here](https://adoptopenjdk.net/) 
