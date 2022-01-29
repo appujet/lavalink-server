@@ -1,9 +1,11 @@
-# lavalink-Server
-Lavalink on 
 
-[![Run on Repl.it](https://repl.it/badge/github/brblacky/lavalink-in-replit)](https://repl.it/github/brblacky/lavalink-in-replit)
+<!-- PROJECT LOGO -->
+<p align="center">
+  <a href="https://github.com/brblacky/lavalink-server">
+    <img src="https://media.discordapp.net/attachments/902568151731015770/936134410737180703/059C7F8B-2A75-4AF7-9DCA-B4C13E826D22.png" alt="Pbot-plus" width="200" height="100">
+  </a>
+</p>
 
-<br>
 ## Connecting
 - [x] Lavalink's port will always 443
 - [x] Default password `youshallnotpass`
