@@ -10,6 +10,11 @@
 [Windows](https://github.com/brblacky/lavalink-server#windows)
 • [Linux](https://github.com/brblacky/lavalink-server#linux)
 • [replit](https://github.com/brblacky/lavalink-server#replit)
+
+## what is pm2 
+
+PM2 is a production process manager for Node.js applications with a built-in load balancer. It allows you to keep applications **alive forever**, to reload them without downtime and to facilitate common system admin tasks.
+
 ## Windows 
 - download and install java [here](https://adoptopenjdk.net/) 
 
