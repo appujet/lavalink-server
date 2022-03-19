@@ -1,9 +1,9 @@
 server: # REST and WS server
-  port: 2333
+  port: 80
   address: 0.0.0.0
 lavalink:
   server:
-    password: "youshallnotpass"
+    password: "janemon"
     sources:
       youtube: true
       bandcamp: true
